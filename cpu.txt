@@ -1,1 +1,5 @@
 ryzen 5 7520u 
+total cores: 4
+total threads: 8
+Max turbo frequency:4.3GHz
+smart cache: 6mb
